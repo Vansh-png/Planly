@@ -83,3 +83,5 @@ My purpose of developing this project is to show what I can do both on the front
 - Start the client:
 
     ```npm run start```
+# Planly
+Planly is a fully responsive project management app where users create boards,lists and cards and add members to boards.
